@@ -1,0 +1,28 @@
+[
+  {
+    "index": 0,
+    "pts_ms": 0,
+    "arrive_ms": 0
+  },
+  {
+    "index": 1,
+    "pts_ms": 16,
+    "arrive_ms": 40
+  },
+  {
+    "index": 2,
+    "pts_ms": 32,
+    "arrive_ms": 40,
+    "dropped": true
+  },
+  {
+    "index": 3,
+    "pts_ms": 48,
+    "arrive_ms": 95
+  },
+  {
+    "index": 4,
+    "pts_ms": 40,
+    "arrive_ms": 120
+  }
+]
