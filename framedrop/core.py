@@ -13,11 +13,6 @@ class FrameStat:
     dropped: bool = False
 
 
-def FrameStat:
-    """class"""
-    raise NotImplementedError("FrameStat 尚未实现")
-
-
 def load_stats(path):
     """读帧统计"""
     raise NotImplementedError("load_stats 尚未实现")
